@@ -60,6 +60,16 @@ B.Eng 4th year Material and Metallurgy student. Passionate about Data Science, M
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
 </a>    
 
+<a href="https://github.com/fandisyamsudin/IDCAMP2020">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
+</a>  
+
+<a href="https://github.com/fandisyamsudin/sign-language-classification">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
+</a>  
+
 
 ##  Contact Me :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/-fandisyamsudin20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fandisyamsudin20@gmail.com)](mailto:fandisyamsudin20@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@fandi.syamsudin19-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fandi.syamsudin19/)](https://www.instagram.com/fandi.syamsudin19/)
