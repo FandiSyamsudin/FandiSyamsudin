@@ -70,7 +70,7 @@ B.Eng 4th year Material and Metallurgy student. Passionate about Data Science, M
 
 <a href="https://github.com/fandisyamsudin/IDCAMP2020">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=IDCAMP&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=IDCAMP2020&theme=radical" />
 </a>  
 
 <br/>
@@ -89,7 +89,7 @@ B.Eng 4th year Material and Metallurgy student. Passionate about Data Science, M
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ashwanisng/count.svg" />
+  <img src="https://profile-counter.glitch.me/fandisyamsudin/count.svg" />
 </p>
 
 
