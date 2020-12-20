@@ -49,27 +49,40 @@ B.Eng 4th year Material and Metallurgy student. Passionate about Data Science, M
 
 
 <a href="https://github.com/fandisyamsudin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanisng&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fandisyamsudin&theme=radical&hide=glsl,python" />
 </a>
+
+<br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fandisyamsudin&&show_icons=true&theme=radical&line_height=27&v=5" alt="Fandi's GitHub Stats" />
 
+<br/>
+<br/>
 
 <a href="https://github.com/fandisyamsudin/skin-cancer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
 </a>    
 
+<br/>
+<br/>
+
 <a href="https://github.com/fandisyamsudin/IDCAMP2020">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
 </a>  
+
+<br/>
+<br/>
 
 <a href="https://github.com/fandisyamsudin/sign-language-classification">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fandisyamsudin&repo=skin-cancer&theme=radical" />
 </a>  
 
+<br/>
+<br/>
 
 ##  Contact Me :speech_balloon:
 [![Gmail Badge](https://img.shields.io/badge/-fandisyamsudin20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fandisyamsudin20@gmail.com)](mailto:fandisyamsudin20@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@fandi.syamsudin19-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/fandi.syamsudin19/)](https://www.instagram.com/fandi.syamsudin19/)
